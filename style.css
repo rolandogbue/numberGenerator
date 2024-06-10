@@ -1,0 +1,14 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  line-height: 1.75;
+  text-align: center;
+}
+#myButton {
+  font-size: 5em;
+  padding: 5px 25px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.labels {
+  font-size: 5em;
+}
